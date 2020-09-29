@@ -1,2 +1,2 @@
 # Remax-CheckSnap
-Checker PhoneNumber if it link on snapchat account or not 
+Checker PhoneNumber if it linked on snapchat account or not 
